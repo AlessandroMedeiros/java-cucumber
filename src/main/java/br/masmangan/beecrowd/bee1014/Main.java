@@ -2,6 +2,11 @@ import java.math.RoundingMode;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
+// Disciplina Engenharia de Software Orientado a Modelos
+// Prof: Marco Aurelio Souza Mangan
+// 1º semestre 2022
+// Alessandro, Guilherme e Victor
+
 public class Main {
 
     public static void main(String[] args) {
